@@ -21,8 +21,9 @@ Cada tema possui sua própria identidade visual, combinando diferentes estética
 ## 🫧 Fruiter Aereo
 - Mas, o que é? Frutiger Aero é uma estética de design digital e visual que marcou o período entre 2004 e 2013, combinando esqueumorfismo, texturas brilhantes com efeito de vidro e a harmonia entre tecnologia e natureza. O nome vem da fonte Frutiger e da interface Windows Aero da Microsoft.
 
-Desing atual(Ainda e correções e melhorias):
+### Desing atual (propenso a correções e melhorias):
 <br>
-<img width="800" src="assets/FriterAereo.png">
+<br>
+<img width="800" src="assets/FruiterAereo.png">
 
 Sinta-se à vontade para explorar, usar e se inspirar!
