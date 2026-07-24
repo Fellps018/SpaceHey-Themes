@@ -5,7 +5,7 @@ Uma coleção de temas exclusivos para o **SpaceHey**, todos criados e salvos po
 Cada tema possui sua própria identidade visual, combinando diferentes estéticas, cores e estilos para oferecer uma experiência única ao personalizar ao seu perfil.
 <br>
 
-<a title="Meu perfil SpaceHey" href=""><img  width="60" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwnNPJKM5rLsZnSXODwnY7C79dnVYSI1Hjnu0H0ijP6Q&s"> </a>
+<a title="Meu perfil SpaceHey" href="https://spacehey.com/pinguim_033"><img  width="60" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwnNPJKM5rLsZnSXODwnY7C79dnVYSI1Hjnu0H0ijP6Q&s"> </a>
 
 <br>
 
@@ -22,6 +22,7 @@ Cada tema possui sua própria identidade visual, combinando diferentes estética
 - Mas, o que é? Frutiger Aero é uma estética de design digital e visual que marcou o período entre 2004 e 2013, combinando esqueumorfismo, texturas brilhantes com efeito de vidro e a harmonia entre tecnologia e natureza. O nome vem da fonte Frutiger e da interface Windows Aero da Microsoft.
 
 Desing atual(Ainda e correções e melhorias):
-
+<br>
+<img width="800" src="assets/FriterAereo.png">
 
 Sinta-se à vontade para explorar, usar e se inspirar!
